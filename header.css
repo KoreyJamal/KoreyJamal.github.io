@@ -1,0 +1,31 @@
+.header-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 72px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+.linkedin-link {
+  margin-right: 40px;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  max-width: 100%;
+}
+
+.social-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: center;
+}
