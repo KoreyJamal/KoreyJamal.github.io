@@ -69,7 +69,3 @@ p {
   box-shadow: inset 3px 3px 5px rgb(83, 83, 82);
   transition: opacity 1s;
 }
-
-.btn:hover {
-  opacity: 0.5;
-}
