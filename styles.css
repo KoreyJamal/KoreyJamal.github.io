@@ -12,6 +12,7 @@ body {
   background: url(icT-Axg0.png);
   object-fit: cover;
   background-position: 0 2000px;
+  background-size: cover;
   font-family: 'Roboto', sans-serif;
 }
 
